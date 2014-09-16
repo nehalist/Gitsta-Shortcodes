@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Shortcodes
+Plugin Name: Gitsta Shortcodes
 Plugin URI: https://github.com/HirczyK/Gitsta-Shortcodes
 Description: Yet another shortcode plugin. Mainly for bootstrap.
 Author: Kevin Hirczy
